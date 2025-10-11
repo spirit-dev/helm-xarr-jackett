@@ -1,0 +1,6 @@
+dependencies:
+- name: jackett
+  repository: https://k8s-at-home.com/charts/
+  version: 11.7.2
+digest: sha256:0658d70b109e97d9773c7a4c3761ef17da72e0521c1d3138b9ea18a6231c729a
+generated: "2023-08-08T11:08:03.121606565-04:00"
