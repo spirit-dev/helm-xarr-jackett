@@ -17,7 +17,7 @@ type: application
 version: "11.7.2"
 
 # renovate: datasource=github-releases depName=Jackett/Jackett
-appVersion: v0.24.1205
+appVersion: v0.24.1218
 
 keywords:
   - jackett
